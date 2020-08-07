@@ -2,4 +2,4 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.mantralabsglobal.com/">Mantra Lab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/itsamanverma786?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: itsamanverma786](https://img.shields.io/twitter/follow/itsamanverma786?style=social)](https://twitter.com/itsamanverma786)
