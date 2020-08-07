@@ -18,8 +18,8 @@ const aman = {
             php: ["laravel", "lumen", "concrete5"],
             python: ["Django"]
         },
-        devOps: ["AWS EC2", "Docker🐳 Begginer"],
-        databases: ["mongo", "MySql", "sqlite"],
+        devOps: ["AWS Begginer", "Docker🐳 Begginer"],
+        databases: ["MySql", "sqlite"],
         misc: ["Firebase","php", "opencat"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
