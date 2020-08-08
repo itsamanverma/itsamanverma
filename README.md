@@ -24,7 +24,7 @@ const aman = {
         misc: ["Firebase","php", "opencat", "Html", "css"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Admin Panel in Laravel",
+    currentProject: "I am developing Admin Panel in Laravel && amazon-clone in Reactjs",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
