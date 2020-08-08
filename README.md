@@ -8,7 +8,10 @@
 [![GitHub itsamanverma](https://img.shields.io/github/followers/itsamanverma?label=follow&style=social)](https://github.com/itsamanverma)
 [![](https://img.shields.io/badge/Gmail-amanvermame786%40gmail.com-red)](mailto:amanvermame786@gmail.com)
 [![](https://img.shields.io/badge/HackerRank-amanvermame786-brightgreen)](https://www.hackerrank.com/amanvermame786)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsamanverma.visitor-badge)
+<!-- <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=itsamanverma" alt="itsamanverma" />
+</p> -->
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h4>A little more about me...</h4> 
 
