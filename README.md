@@ -2,10 +2,10 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.mantralabsglobal.com/">Mantra Lab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h4>A little more about me...</h4> 
 
 [![Twitter: itsamanverma786](https://img.shields.io/twitter/follow/itsamanverma786?style=social)](https://twitter.com/itsamanverma786)
 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h4>A little more about me...</h4> 
 
 ```javascript
 const aman = {
