@@ -7,7 +7,7 @@
 [![Linkedin: AmanVerma](https://img.shields.io/badge/-amanverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-kumar-verma-2a2888122/)](https://www.linkedin.com/in/aman-kumar-verma-2a2888122/)
 [![GitHub itsamanverma](https://img.shields.io/github/followers/itsamanverma?label=follow&style=social)](https://github.com/itsamanverma)
 [![](https://img.shields.io/badge/Gmail-amanvermame786%40gmail.com-red)](mailto:amanvermame786@gmail.com)
-x
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h4>A little more about me...</h4> 
 
 ```javascript
