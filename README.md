@@ -15,7 +15,7 @@
 ```javascript
 const aman = {
     pronouns: "He" | "Him",
-    code: ["php", "Javascript", "Python", "Java"],
+    code: ["php", "Javascript", "🐍Python", "Java"],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
         frontEnd: {
