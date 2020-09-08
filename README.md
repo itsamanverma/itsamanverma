@@ -28,9 +28,9 @@ const aman = {
             php: ["laravel", "lumen", "concrete5"],
             python: ["Django"]
         },
-        devOps: ["AWS Begginer", "Docker🐳 Begginer"],
+        devOps: ["AWS    Begginer", "Docker🐳 Begginer"],
         databases: ["MySql", "sqlite"],
-        misc: ["Firebase","php", "opencat", "Html", "css"]
+        misc: ["Firebase","php", "opencat", "Html", "css", "asgardcms Begginer"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Admin Panel in Laravel && amazon-clone in Reactjs",
