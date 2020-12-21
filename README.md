@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: itsamanverma786](https://img.shields.io/twitter/follow/itsamanverma786?style=social)](https://twitter.com/itsamanverma786)
-[![Linkedin: AmanVerma](https://img.shields.io/badge/-amanverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-kumar-verma-2a2888122/)](https://www.linkedin.com/in/aman-kumar-verma-2a2888122/)
+[![Linkedin: AmanVerma](https://img.shields.io/badge/-amanverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-kumar-verma-2a2888122/)](https://www.linkedin.com/in/aman-verma-2a2888122/)
 [![GitHub itsamanverma](https://img.shields.io/github/followers/itsamanverma?label=follow&style=social)](https://github.com/itsamanverma)
 [![](https://img.shields.io/badge/Gmail-amanvermame786%40gmail.com-red)](mailto:amanvermame786@gmail.com)
 [![](https://img.shields.io/badge/HackerRank-amanvermame786-brightgreen)](https://www.hackerrank.com/amanvermame786)
