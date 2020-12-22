@@ -17,7 +17,7 @@
 ```javascript
 const aman = {
     pronouns: "He" | "Him",
-    code: ["php", "Javascript", "🐍Python", "Java"],
+    code: ["Laravel", "Javascript", "🐍Python", "Java"],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
         frontEnd: {
@@ -26,13 +26,13 @@ const aman = {
         },
         backEnd: {
             php: ["laravel", "lumen", "concrete5"],
-            python: ["Django"]
+            python: ["Begginner Django"]
         },
-        devOps: ["AWS    Begginer", "Docker🐳 Begginer"],
+        devOps: ["AWS Begginer", "Docker🐳 Begginer"],
         databases: ["MySql", "sqlite"],
         misc: ["Firebase","php", "opencat", "Html", "css", "asgardcms Begginer"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "multi page application"],
     currentProject: "I am developing Admin Panel in Laravel && amazon-clone in Reactjs",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
