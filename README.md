@@ -17,19 +17,19 @@
 ```javascript
 const aman = {
     pronouns: "He" | "Him",
-    code: ["Laravel", "Javascript", "🐍Python", "Java"],
-    askMeAbout: ["web dev", "tech", "photography"],
+    code: ["Laravel", "Javascript", "🐍Python", "Core Java"],
+    askMeAbout: ["web dev", "tech", "photography","taravelling"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue" ],
             css: ["scss", "tailwind-css", "bootstrap"]
         },
         backEnd: {
-            php: ["laravel", "lumen", "concrete5"],
-            python: ["Begginner Django"]
+            php: ["laravel", "lumen", "concrete5",],
+            python: ["Django",]
         },
-        devOps: ["AWS Begginer", "Docker🐳 Begginer"],
-        databases: ["MySql", "sqlite"],
+        devOps: ["AWS", "Docker🐳 Begginer"],
+        databases: ["MySql", "sqlite3",],
         misc: ["Firebase","php", "opencat", "Html", "css", "asgardcms Begginer"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "multi page application"],
