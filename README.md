@@ -33,7 +33,7 @@ const aman = {
         misc: ["Firebase","php", "opencat", "Html", "css", "asgardcms Begginer"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "multi page application"],
-    currentProject: "I am developing Admin Panel in Laravel && amazon-clone in Reactjs",
+    currentProject: "I am developing Admin Panel in Laravel 7.34 && Financial Requirement  platfrom backend API,Database maintaing & manipulating also AWS service setup & maintaining",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
