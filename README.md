@@ -33,7 +33,8 @@ const aman = {
         misc: ["Firebase","php", "opencat", "Django", "Java", "asgardcms Begginer"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "multi page application"],
-    currentProject: "I am developing Admin Panel in Laravel 7.34 && Financial Requirement platfrom backend API,Database maintaing & manipulating also AWS service setup & maintaining",
+    currentProject: "I am developing Admin Panel in Laravel 7.34 && Financial Requirement platfrom Whole backend API,Database maintaing & manipulating also AWS service setup & maintaining",
+    currentLearning: "Advance React & Redux",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
