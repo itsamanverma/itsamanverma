@@ -1,6 +1,6 @@
 ## नमस्ते (Namaste)🙏🏻, I'm Aman Verma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>FullStack Engineer at <a href="https://www.finjobs.vn/">Finjobs.vn</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>FullStack Engineer at <a href="https://www.crunchbase.com/organization/livwell-asia-pte-ltd">LivWell Asia Pte Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: itsamanverma786](https://img.shields.io/twitter/follow/itsamanverma786?style=social)](https://twitter.com/itsamanverma786)
@@ -27,9 +27,10 @@ const aman = {
         backEnd: {
             php: ["laravel", "lumen", "concrete5",],
             python: ["Django",]
+            node: ["hapi.js", "express"]
         },
         devOps: ["AWS", "Docker🐳 Begginer","Digital Ocean"],
-        databases: ["MySql", "sqlite3",],
+        databases: ["mongoDB🍀 Intermidate","MySql" ],
         misc: ["Firebase","php", "opencat", "Django", "Java", "asgardcms Begginer"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "multi page application"],
