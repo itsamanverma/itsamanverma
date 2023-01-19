@@ -26,7 +26,7 @@ const aman = {
         },
         backEnd: {
             php: ["laravel", "lumen", "concrete5",],
-            python: ["Django",]
+            python: ["Django",],
             node: ["hapi.js", "express"]
         },
         devOps: ["AWS", "Docker🐳 Begginer","Digital Ocean"],
