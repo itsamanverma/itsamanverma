@@ -35,7 +35,7 @@ const aman = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "multi page application"],
     previousProject: "I am developing Admin Panel in Laravel 7.34 && Financial Requirement platfrom Whole backend API,Database maintaing & manipulating also AWS service setup & maintaining",
-    currentProject: "I am developing Admin Panel in Angular 12 && Insurance platfrom Whole backend API,Database maintaing & manipulating also AWS service setup & maintaining"
+    currentProject: "I am developing Admin Panel in Angular 12 && Insurance platfrom Whole backend API,Database maintaing & manipulating also AWS service setup & maintaining",
     currentLearning: "Advance React & Redux",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
