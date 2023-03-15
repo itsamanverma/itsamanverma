@@ -21,7 +21,7 @@ const aman = {
     askMeAbout: ["web dev", "tech", "photography","taravelling"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue" ],
+            js: ["React", "Angular" ],
             css: ["scss", "tailwind-css", "bootstrap"]
         },
         backEnd: {
@@ -30,11 +30,12 @@ const aman = {
             node: ["hapi.js", "express"]
         },
         devOps: ["AWS", "Docker🐳 Begginer","Digital Ocean"],
-        databases: ["mongoDB🍀 Intermidate","MySql" ],
+        databases: ["mongoDB🍀 Intermidate","MySql Advance" ],
         misc: ["Firebase","php", "opencat", "Django", "Java", "asgardcms Begginer"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "multi page application"],
-    currentProject: "I am developing Admin Panel in Laravel 7.34 && Financial Requirement platfrom Whole backend API,Database maintaing & manipulating also AWS service setup & maintaining",
+    previousProject: "I am developing Admin Panel in Laravel 7.34 && Financial Requirement platfrom Whole backend API,Database maintaing & manipulating also AWS service setup & maintaining",
+    currentProject: "I am developing Admin Panel in Angular 12 && Insurance platfrom Whole backend API,Database maintaing & manipulating also AWS service setup & maintaining"
     currentLearning: "Advance React & Redux",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
